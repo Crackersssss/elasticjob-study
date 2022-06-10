@@ -1,2 +1,2 @@
-# easticjob-study
- Learn the code of easticjob.
+# elasticjob-study
+ Learn the code of elasticjob.
